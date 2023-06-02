@@ -1,0 +1,260 @@
+/* color */
+.bg-lightBlue {
+    background-color: #F3F8FE;
+}
+
+
+.p-20 {
+    padding: 20px;
+}
+
+.pt-20 {
+    padding-top: 20px;
+}
+
+
+.p-30 {
+    padding: 30px;
+}
+
+.px-20 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.px-30 {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+
+.m-20 {
+    margin: 20px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+
+
+.gap-30 {
+    gap: 30px;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.btn-primary,
+.btn-outline-primary {
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 17px;
+    letter-spacing: 0em;
+    padding: 8px 10px 8px 10px;
+    border-radius: 4px;
+    border: none;
+}
+
+.btn-modal-submit {
+    padding: 8.5px 21.5px;
+}
+
+.btn-primary {
+    background-color: #0747A6;
+    color: #ffffff;
+}
+
+.btn-primary:hover {
+    background-color: #043E95;
+}
+
+.btn-primary:active {
+    background-color: #0747A6;
+}
+
+
+.btn-outline-primary {
+    background-color: #21344912;
+    color: #3D4148;
+}
+
+.btn-outline-primary:hover {
+    background-color: #2134491F;
+    color: #3D4148;
+}
+
+.btn-outline-primary:active {
+    background-color: #21344912;
+    ;
+}
+
+.border-color {
+    border: 1px solid #EFEFEF;
+}
+
+.multiselect-native-select {
+    display: block;
+}
+
+.btn:focus {
+    box-shadow: none;
+}
+
+.multiselect-option.dropdown-item:hover,
+.multiselect-option.dropdown-item:focus,
+.multiselect-container .multiselect-all.active:not(.multiselect-active-item-fallback),
+.multiselect-container .multiselect-all:not(.multiselect-active-item-fallback):active,
+.multiselect-container .multiselect-group.active:not(.multiselect-active-item-fallback),
+.multiselect-container .multiselect-group:not(.multiselect-active-item-fallback):active,
+.multiselect-container .multiselect-option.active:not(.multiselect-active-item-fallback),
+.multiselect-container .multiselect-option:not(.multiselect-active-item-fallback):active {
+    background: #F0F7FC !important;
+    color: #0D87E2;
+}
+
+.multiselect-native-select .form-select {
+    padding: 10px 15px;
+}
+
+.multiselect-selected-text {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    color: #85909F;
+
+}
+
+.multiselect-container .multiselect-option {
+    padding: 10px 15px;
+}
+
+.multiselect-container .multiselect-option .form-check {
+    padding: 0;
+}
+
+
+
+.multiselect-container .multiselect-option {}
+
+.multiselect-native-select .multiselect {
+    text-align: left !important;
+}
+
+.multiselect-native-select .btn-group {
+    width: 100%;
+}
+
+.multiselect-container.dropdown-menu {
+    padding: 0;
+    width: 100%;
+    box-shadow: 0px 2px 10px 0px #DCDEE080;
+    border-radius: 4px;
+}
+
+.single-select~.btn-group .form-check-input {
+    display: none;
+}
+
+.form-select:focus {
+    box-shadow: none;
+}
+
+.dropdown-menu {
+    border: none;
+}
+
+.dropdown-menu .dropdown-item {
+    border-bottom: 1px solid #F1F1F1;
+}
+
+.multiselect-native-select .btn-group .multiselect {
+    border: 1px solid #ECEDEF;
+}
+
+.multiselect-native-select .btn-group .multiselect:hover {
+    border-color: #D9D9D9;
+}
+
+.multiselect-native-select .btn-group .multiselect:focus {
+    border-color: #0747A6;
+}
+
+.multiselect-native-select .btn-group .multiselect:active {
+    border-color: #d9d9d9;
+}
+
+.form-select {
+    background-image: url("/Referral-UI/images/arrowDown.svg");
+    background-size: 18px 18px;
+}
+
+.form-check-input[type="checkbox"] {
+    width: 14px;
+    height: 14px;
+    margin-right: 10px;
+    border: 1px solid #C2C7D0;
+}
+
+.form-check-input:focus {
+    box-shadow: none;
+}
+
+.form-check-label {
+
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.01em;
+    color: #181C32;
+
+}
+
+.popover {
+    padding: 20px;
+}
+
+.popover-body,
+.popover-header {
+    padding: 0;
+}
+
+.popover-header {
+    background-color: #fff;
+    border: none;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0.01em;
+    color: #181C32;
+
+}
+
+.popover-body {
+
+    background-color: #fffFFF;
+    color: #787070;
+    font-family: Lato;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0.01em;
+
+
+}
